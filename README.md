@@ -17,3 +17,4 @@ https://github.com/rizwan92/creditail/blob/main/base.apk
 you will find the apk file in the following path
 
 creditail/android/app/build/outputs/apk/release/app-release.apk
+# creditail
